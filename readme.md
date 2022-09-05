@@ -3,10 +3,10 @@
 clone project ini:
 
 ```
-git clone https://github.com/Fatih-Academy-BE/Tugas-Part3.git
+git clone https://github.com/Fatih-Academy-BE/Tugas-Part4.git
 ```
 
-setelah clone selesai, jalankan perintah `cd Tugas-Part3`
+setelah clone selesai, jalankan perintah `cd Tugas-Part4`
 
 Setelah pindah folder, lakukan perintah dibawah ini secara berurutan :
 
@@ -20,7 +20,7 @@ setelah menjalankan perintah diatas, lakukan inisialisasi ulang untuk git dengan
 git init
 ```
 
-buat repository pada github organization kalian dengan format: `Tugas-Part3`
+buat repository pada github organization kalian dengan format: `Tugas-Part4`
 
 ## Tatacara Mengerjakan Tugas
 
